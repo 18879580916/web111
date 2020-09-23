@@ -1,2 +1,4 @@
-var target = document.getElementById("submit");
-        target(){alert("我被点击了")
+var target = document.getElementById("btn");
+        target.onclick=function(){
+            alert("我被点击了")
+        }
