@@ -7,3 +7,22 @@ Object2.prototype0={
 function Object2(){
     this.__proto2__=Object2.prototype2;
 }
+
+
+
+
+function Haw3(){
+    console.log("")
+}
+
+
+
+
+
+
+
+
+
+
+
+
